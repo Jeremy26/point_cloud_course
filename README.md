@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to the Point Clouds Fast Course
 
 In this course, you will learn to build a 3D Object detection system.
@@ -50,11 +49,5 @@ http://www.open3d.org/docs/0.7.0/getting_started.html#id2
 [Link to the documentation](http://www.open3d.org/docs/0.7.0/getting_started.html#id2).
 
 ## DOCUMENTATION
-The course uses the documentation provided by [Open 3D](http://www.open3d.org/docs/release/tutorial/Basic/pointcloud.html#Plane-segmentation)
+The course uses the documentation provided by [Open 3D](http://www.open3d.org/docs/release/tutorial/Basic/pointcloud.html)
 
-﻿﻿
-
-=======
-# point_cloud_course
-Based on https://www.thinkautonomous.ai/point-clouds
->>>>>>> parent of 7e27b51... Revert "Initial commit"
